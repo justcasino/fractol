@@ -1,5 +1,5 @@
 # fractal
-A program that will display 3 different fractols.
+A program that will display 3 different fractals.
 Only runs on OS X
 
 Compile with make
